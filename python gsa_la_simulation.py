@@ -1,4 +1,4 @@
-#### ۳. فایل سوم (کد اصلی برنامه): `gsa_la_simulation.py` 
+#### ۳.`gsa_la_simulation.py` 
 """
 Context-Aware Application Distribution in Fog Environments (GSA-LA)
 Official Simulation & Optimization Engine (Python 3.9+)
